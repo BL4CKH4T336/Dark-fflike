@@ -1,0 +1,9 @@
+Flask
+google
+protobuf
+pycryptodome
+aiohttp
+requests
+google
+google-cloud
+protobuf
